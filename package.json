@@ -1,0 +1,27 @@
+{
+    "name": "jswebcrawler",
+    "version": "1.0.0",
+    "description": "Http web crawler using javascript and NodeJS",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "start": "node main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Leomconti/JsWebCrawler.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Leomconti/JsWebCrawler/issues"
+    },
+    "homepage": "https://github.com/Leomconti/JsWebCrawler#readme",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "dependencies": {
+        "jsdom": "^22.1.0"
+    }
+}
